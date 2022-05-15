@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(161, 235, 154);
+        
+}
+
+h1 {
+    color: rgb(8, 58, 6);
+    font-size: 34px;
+    font-style: italic; 
+}
+
+.text-red {
+    color: rgb(223, 68, 68);
+}
